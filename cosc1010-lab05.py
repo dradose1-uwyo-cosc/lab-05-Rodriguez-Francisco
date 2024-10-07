@@ -1,8 +1,8 @@
-# Your Name Here
+# Francisco Rodriguez
 # UWYO COSC 1010
-# Submission Date
+
 # Lab 03 
-# Lab Section: 
+# Lab Section: monday 3:10PM
 # Sources, people worked with, help given to: 
 # your
 # comments
